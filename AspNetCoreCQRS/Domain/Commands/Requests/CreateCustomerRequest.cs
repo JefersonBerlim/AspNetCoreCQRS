@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace AspNetCoreCQRS.Domain.Commands.Requests
+﻿namespace AspNetCoreCQRS.Domain.Commands.Requests
 {
     public class CreateCustomerRequest
     {
